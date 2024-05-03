@@ -8,6 +8,8 @@ I'm a passionate and versatile individual with a keen interest in coding, gaming
 - ⚡ Fun fact: I can eat 12 Big Macs in an hour
 - 130 wpm at typing !
 - I love cats
+
+- 
 ![picture of cat](https://i.pinimg.com/564x/5a/5f/72/5a5f721f6e1e62b2fa4541fd52154bd3.jpg)
 <!--
 **Boston-Phillips-Lepaio/Boston-Phillips-Lepaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
